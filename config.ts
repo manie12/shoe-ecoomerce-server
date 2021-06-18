@@ -1,0 +1,1 @@
+export const MONGODB = "mongodb+srv://jacobruno:manie1234@cluster0.lz25v.mongodb.net/mernq?retryWrites=true&w=majority"
